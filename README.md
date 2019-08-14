@@ -1,7 +1,7 @@
 # ShellLab
 A simple Unix shell program that supports job control. The tsh.cc file contains all functions written to create the shell program. The 
 others contain the files needed to build the shell program and were not written by me. This was made as part of the "Computer Systems" 
-class at CU Boulder in fall of 2018. The command "make testX" (Where X is a number from 1-16)
+class at CU Boulder in fall of 2018.
 
 Background of how a shell operates: 
 
